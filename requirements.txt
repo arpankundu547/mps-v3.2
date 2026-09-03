@@ -1,0 +1,6 @@
+flet>=0.20.0
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+reportlab>=4.0.0
+gTTS>=2.4.0
+speechrecognition>=3.10.0
