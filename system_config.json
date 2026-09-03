@@ -1,0 +1,54 @@
+{
+  "system_identity": {
+    "name": "Project System UI",
+    "version": "4.0.0-Master",
+    "user_name": "ARPAN",
+    "user_salutation": "Sir",
+    "authority_level": "Supreme Absolute Judge",
+    "theme_mode": "Gaming Cyberpunk",
+    "bg_pattern": "Scientific Grid"
+  },
+  "security": {
+    "security_pin": "1234",
+    "pin_protection_enabled": true
+  },
+  "runtime_settings": {
+    "auto_load_modules": true,
+    "fault_tolerant_mode": true,
+    "offline_first": true,
+    "free_api_routing": true
+  },
+  "active_modules": [
+    "main_system.py",
+    "system_judge.py",
+    "ai_router.py",
+    "fitness_pose_checker.py",
+    "study_viva_analyzer.py",
+    "boss_level_examiner.py",
+    "plugin_smart_scheduler.py",
+    "tutorial_manager.py",
+    "database_manager.py",
+    "system_pdf.py",
+    "security_vault.py",
+    "app_launcher.py",
+    "system_ui.py",
+    "plugin_code_runner.py"
+  ],
+  "camera_vision_config": {
+    "pose_detection_accuracy": 0.85,
+    "strict_angle_check": true,
+    "target_flexibility_angle": 45,
+    "gemini_vision_enabled": true
+  },
+  "health_profile": {
+    "left_eye_condition": "Monocular / Strabismus",
+    "medical_safety_guardrails": true,
+    "indoor_space_meters": 5.0
+  },
+  "progression_parameters": {
+    "base_xp_viva_100": 500,
+    "base_xp_viva_90": 450,
+    "base_xp_viva_60": 200,
+    "boss_level_milestones": [10, 20, 30, 50, 100]
+  }
+}
